@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net.Sockets;
 using System.Text;
 
-namespace LockNess.Communication.SocketFac
+namespace LockNess.Communication.Core.SocketFac
 {
     public class DefaultSocketBuilder : ISocketBuilder
     {

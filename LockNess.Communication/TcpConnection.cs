@@ -1,5 +1,7 @@
-﻿using LockNess.Communication.Filter;
-using LockNess.Communication.SocketFac;
+﻿using LockNess.Communication.Core.Filter;
+using LockNess.Communication.Core.SocketFac;
+using LockNess.Communication.Filter;
+
 using System;
 using System.Buffers;
 using System.Collections.Generic;
@@ -9,7 +11,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LockNess.Communication
+namespace LockNess.Communication.Core
 {
     public class TcpConnection: IConnection
     {

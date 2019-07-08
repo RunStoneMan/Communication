@@ -3,7 +3,7 @@ using System.Buffers;
 using System.Collections.Generic;
 using System.Text;
 
-namespace LockNess.Communication.Filter
+namespace LockNess.Communication.Core.Filter
 {
     public abstract class FixedHeaderPipelineFilter : ISockedFilter
     {

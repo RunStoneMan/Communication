@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
+    <AssemblyName>LockNess.Communication.Core</AssemblyName>
+    <RootNamespace>LockNess.Communication.Core</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
