@@ -1,5 +1,5 @@
-﻿using LockNess.Communication.Servers;
-using LockNess.Communication.SocketFac;
+﻿using LockNess.Communication.Core.SocketFac;
+using LockNess.Communication.Servers;
 using System;
 using System.Threading;
 

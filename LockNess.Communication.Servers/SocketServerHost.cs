@@ -1,4 +1,5 @@
-﻿using LockNess.Communication.SocketFac;
+﻿using LockNess.Communication.Core;
+using LockNess.Communication.Core.SocketFac;
 using Microsoft.Extensions.Hosting;
 using System;
 using System.Collections.Generic;

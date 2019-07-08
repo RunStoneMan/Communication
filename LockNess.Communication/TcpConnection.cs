@@ -1,7 +1,5 @@
 ﻿using LockNess.Communication.Core.Filter;
 using LockNess.Communication.Core.SocketFac;
-using LockNess.Communication.Filter;
-
 using System;
 using System.Buffers;
 using System.Collections.Generic;
