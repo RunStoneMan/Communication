@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LockNess.Communication\LockNess.Communication.csproj" />
+    <ProjectReference Include="..\LockNess.Communication\LockNess.Communication.Core.csproj" />
   </ItemGroup>
 
 </Project>

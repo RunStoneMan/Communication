@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockNess.Communication", "LockNess.Communication\LockNess.Communication.csproj", "{88B88B2F-F086-4CE2-8D23-89895E0CF632}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LockNess.Communication.Core", "LockNess.Communication\LockNess.Communication.Core.csproj", "{88B88B2F-F086-4CE2-8D23-89895E0CF632}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockNess.Communication.Servers", "LockNess.Communication.Servers\LockNess.Communication.Servers.csproj", "{F9F80717-C190-478A-98B7-6ADD316F3087}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LockNess.Communication.Servers", "LockNess.Communication.Servers\LockNess.Communication.Servers.csproj", "{F9F80717-C190-478A-98B7-6ADD316F3087}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoServer", "EchoServer\EchoServer.csproj", "{EF512FC1-9EEE-471C-BC1A-DBEEF2B0AA30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EchoServer", "EchoServer\EchoServer.csproj", "{EF512FC1-9EEE-471C-BC1A-DBEEF2B0AA30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
